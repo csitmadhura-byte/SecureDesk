@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# SecureDesk local logs
+logs/*.log
+logs/*.db
+
+# Generated reports
+reports/*.html
+*.html
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
