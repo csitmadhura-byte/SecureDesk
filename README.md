@@ -495,6 +495,30 @@ It is intended for authorized system monitoring, troubleshooting, and learning p
 
 The project should only be used on systems that you own or have permission to monitor.
 
+
+
+
+
+
+## System Architecture
+
+The following diagram shows the overall architecture and workflow of SecureDesk.
+
+![SecureDesk Architecture](assets/architecture_diagram.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Author
